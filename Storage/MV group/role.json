@@ -1,32 +1,44 @@
 {
-    "Director": {
-        "avilable": true,
-        "required": false,
-        "max": 1
-    },
-    "Actor": {
+    "ผู้กำกับ": {
+        "locked": true,
         "avilable": true,
         "required": true,
-        "max": 11
-    },
-    "Editor": {
-        "avilable": true,
-        "required": false,
         "max": 1
     },
-    "Cameraman": {
+    "คนตัดต่อ": {
+        "locked": true,
+        "avilable": true,
+        "required": true,
+        "max": 1
+    },
+    "ตากล้อง": {
+        "locked": false,
         "avilable": true,
         "required": true,
         "max": 3
     },
-    "Lighting": {
+    "คนจัดแสง": {
+        "locked": false,
         "avilable": true,
         "required": true,
-        "max": 3
+        "max": 5
     },
-    "Artist": {
+    "คนจัดพร๊อบ": {
+        "locked": false,
         "avilable": true,
         "required": true,
-        "max": 4
+        "max": 6
+    },
+    "นักแสดง": {
+        "locked": false,
+        "avilable": true,
+        "required": true,
+        "max": 6
+    },
+    "นักแสดงสมทบ": {
+        "locked": false,
+        "avilable": true,
+        "required": false,
+        "max": 5
     }
 }
