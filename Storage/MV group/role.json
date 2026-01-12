@@ -1,0 +1,32 @@
+{
+    "Director": {
+        "avilable": true,
+        "required": false,
+        "max": 1
+    },
+    "Actor": {
+        "avilable": true,
+        "required": true,
+        "max": 11
+    },
+    "Editor": {
+        "avilable": true,
+        "required": false,
+        "max": 1
+    },
+    "Cameraman": {
+        "avilable": true,
+        "required": true,
+        "max": 3
+    },
+    "Lighting": {
+        "avilable": true,
+        "required": true,
+        "max": 3
+    },
+    "Artist": {
+        "avilable": true,
+        "required": true,
+        "max": 4
+    }
+}
