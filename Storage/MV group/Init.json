@@ -1,0 +1,31 @@
+{
+    "initialData": [
+        {
+            "name": "Somchai Jaidee",
+            "roles": [
+                "Actor"
+            ]
+        },
+        {
+            "name": "Somsak Rakthai",
+            "roles": [
+                "Director"
+            ]
+        },
+        {
+            "name": "Wichai Manee",
+            "roles": []
+        },
+        {
+            "name": "Anong Srichai",
+            "roles": [
+                "Actor",
+                "Support"
+            ]
+        },
+        {
+            "name": "Kanya Wattana",
+            "roles": []
+        }
+    ]
+}
